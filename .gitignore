@@ -1,0 +1,35 @@
+# MATLAB auto-generated files
+*.asv
+*.m~
+*.mex*
+*.mat
+slprj/
+*.slxc
+*.autosave
+*.mexw64
+*.mexw32
+*.mexa64
+*.mexmaci64
+
+# Simulink cache
+*.slx.r*
+*.slx.original
+*.mdl.r*
+*.mdl.original
+
+# MATLAB code generation
+codegen/
+*.req
+*.lck
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Build artifacts
+build/
+dist/
+*.log
