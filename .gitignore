@@ -2,7 +2,7 @@
 *.asv
 *.m~
 *.mex*
-*.mat
+
 slprj/
 *.slxc
 *.autosave
